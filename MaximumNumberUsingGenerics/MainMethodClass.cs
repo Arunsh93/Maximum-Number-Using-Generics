@@ -7,11 +7,14 @@ namespace MaximumNumberUsingGenerics
         static void Main(string[] args)
         {
             Console.WriteLine("Find Maximum Number");
-            int output = UC1_MaximumNumber.MaximumIntegerNumber(22, 33, 44);
+            int output = UC3_MaximumString.MaximumIntegerNumber(22, 33, 44);
             Console.WriteLine(output);
 
-            double doubleOutput = UC1_MaximumNumber.MaximumIntegerNumber(12.7, 20.47, 80.56);
+            double doubleOutput = UC3_MaximumString.MaximumIntegerNumber(12.7, 80.56, 20.47);
             Console.WriteLine(doubleOutput);
+
+            string stringOutput = UC3_MaximumString.MaximumStringNumber("Arun", "Hosur", "Shirahatti");
+            Console.WriteLine(stringOutput);
         }
     }
 }
