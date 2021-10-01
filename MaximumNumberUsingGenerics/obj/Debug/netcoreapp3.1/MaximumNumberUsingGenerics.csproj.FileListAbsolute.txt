@@ -1,0 +1,14 @@
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.exe
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.deps.json
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.runtimeconfig.json
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.runtimeconfig.dev.json
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.dll
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\bin\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.pdb
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.csproj.AssemblyReference.cache
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.AssemblyInfoInputs.cache
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.AssemblyInfo.cs
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.dll
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.pdb
+E:\ASP.NET\Maximum-Number-Using-Generics\MaximumNumberUsingGenerics\obj\Debug\netcoreapp3.1\MaximumNumberUsingGenerics.genruntimeconfig.cache
